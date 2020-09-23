@@ -46,3 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+*,html,body,#root{
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-family: 'Roboto', sans-serif;
+}
+#root div{
+	height: 100vh;
+}
