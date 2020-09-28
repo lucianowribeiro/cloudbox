@@ -7,4 +7,4 @@
 2. React
 3. Styled components
 
-![alt text]: (https://github.com/lucianowribeiro/cloudbox/cloudbox_login.png "Screen of cloudbox login")
+![alt text]: (https://github.com/lucianowribeiro/cloudbox/blob/master/cloudbox_login.png "Screen of cloudbox login")
