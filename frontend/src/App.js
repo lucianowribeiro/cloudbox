@@ -18,13 +18,13 @@ function App() {
       </HeaderBox>  
       <LoginBox>
           <label className="name">
-            <FieldsBox type="text" placeholder="Name: " required autocomplete="on"/>
+            <FieldsBox type="text" placeholder="Name" required autocomplete="on"/>
           </label>
           <label className="email">
-            <FieldsBox type="email" placeholder="Email:" required autocomplete="on"/>   
+            <FieldsBox type="email" placeholder="Email" required autocomplete="on"/>   
           </label>
           <label className="password">
-            <FieldsBox type="password" maxlength="8" placeholder="Password:" required autocomplete="on"/>   
+            <FieldsBox type="password" maxlength="8" placeholder="Password" required autocomplete="on"/>   
           </label> 
       </LoginBox>
       <RegisterBox>

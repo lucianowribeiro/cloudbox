@@ -20,7 +20,7 @@ const RegisterBox = styled.footer`
         color: var(--contrast-color);
     }
     &>.signup:hover{
-        border: 1px solid var(--contrast-color);
+        border: 2px solid var(--contrast-color);
     }  
     
 `;
