@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 //import logo from '../../assets/cloudbox_logo.png'
-import cloud from '../../assets/cloud2.svg'
+import cloud from '../../assets/cloud.svg'
 import logo from '../../assets/cloudbox_logo.png'
 
 const LogoBox = styled.img.attrs({src:cloud,alt:"Cloudbox'Logo"})`
